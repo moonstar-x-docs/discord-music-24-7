@@ -1,6 +1,6 @@
-# Documentation site for moonstar-x/discord-tts-bot
+# Documentation site for moonstar-x/discord-music-24-7
 
-This repo contains the documentation site for [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot).
+This repo contains the documentation site for [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7).
 
 ## Development
 
